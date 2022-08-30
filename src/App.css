@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.App {
+  background-image: url('./imgs/25501.jpg');
+  background-repeat: no-repeat;
+  background-size: cover
+};
